@@ -1,0 +1,5 @@
+sinh ra câu lệnh cập nhật db
+npm run migration:generate db/migrations/create_user_table
+
+thay thay đổi sẽ được cập nhật xuống db
+npm run migration:run
